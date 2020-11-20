@@ -78,7 +78,8 @@ let hos10 = {
         "education":"MBBS, MD",
         "medical_registration_verified":true,
         "experience":"12 years",
-        "description":"Dr. Shalini is a gynecologist, in Washington street, New Jersey and has an"+
+        "phoneNumber": "+1(541) 754-3010",
+        "description":"Dr.Shalini is a gynecologist, in Washington street, New Jersey and has an"+
         "experience of 12 years in these fields.",
         "hospitals":[
         {
@@ -109,6 +110,7 @@ let hos10 = {
        "experience":"20 years",
        "description":"Dr. Lisa Hadleyis a OB-GYN, in New Jersey and has an"+
        "experience of 20 years in these fields.",
+       "phoneNumber": "+1(541) 754-3010",
        "hospitals":[
        {
        "_id":hospital2._id,
@@ -131,6 +133,7 @@ let hos10 = {
      "experience":"17 years",
      "description":"Dr. Charles Pearson is a Dentist, in hoboken, New Jersey and has an"+
      "experience of 17 years in these fields.",
+     "phoneNumber": "+1(541) 754-3010",
      "hospitals":[
      {
      "_id":hospital1._id,
@@ -167,6 +170,7 @@ let hos10 = {
    "experience":"13 years",
    "description":"Dr. Jamie Bassel is a Chiropractor, in New Jersey and has an"+
    "experience of 13 years in these fields.",
+   "phoneNumber": "+1(541) 754-3010",
    "hospitals":[
    {
    "_id":hospital5._id,
@@ -204,6 +208,7 @@ let hos10 = {
  "experience":"11 years",
  "description":"Dr. Monica C. Martin is a Cardiologist, in New Jersey and has an"+
  "experience of 11 years in these fields.",
+ "phoneNumber": "+1(541) 754-3010",
  "hospitals":[
  {
  "_id":hospital5._id,
@@ -240,6 +245,7 @@ let doc6= {
  "experience":"10 years",
  "description":"Dr. Michael Pollak is a Primary Care Doctor, in New Jersey and has an"+
  "experience of 10 years in these fields.",
+ "phoneNumber": "+1(541) 754-3010",
  "hospitals":[
  {
  "_id":hospital5._id,
@@ -276,6 +282,7 @@ let doc7= {
  "experience":"5 years",
  "description":"Dr. Prahlad Gadhavi is a Primary Care Doctor, in New Jersey and has an"+
  "experience of 5 years in these fields.",
+ "phoneNumber": "+1(541) 754-3010",
  "hospitals":[
  {
  "_id":hospital5._id,
@@ -312,6 +319,7 @@ let doc8= {
  "experience":"5 years",
  "description":"Dr. Jonathan Dominguez is a Primary Care Doctor, in New Jersey and has an"+
  "experience of 5 years in these fields.",
+ "phoneNumber": "+1(541) 754-3010",
  "hospitals":[
  {
  "_id":hospital3._id,
@@ -333,6 +341,7 @@ let doc9= {
  "experience":"24 years",
  "description":"Dr. Deval Gadhvi is a Primary Care Doctor, in New Jersey and has an"+
  "experience of 24 years in these fields.",
+ "phoneNumber": "+1(541) 754-3010",
  "hospitals":[
  {
  "_id":hospital9._id,
@@ -362,6 +371,7 @@ let doc10= {
  "experience":"22 years",
  "description":"Dr. Robert Mmereole is a Primary Care Doctor, in New Jersey and has an"+
  "experience of 22 years in these fields.",
+ "phoneNumber": "+1(541) 754-3010",
  "hospitals":[
  {
  "_id":hospital9._id,

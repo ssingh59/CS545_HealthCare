@@ -67,3 +67,143 @@
   background-color: #cccccc;
   color: #666666;
 }
+
+.doctorlist{
+  margin: 10px 0;
+  /* margin-left: 10px; */
+}
+.doctorli{
+  width: 100% !important;
+}
+
+.listMain{
+  display: flex;
+}
+.doctor{
+  width: 30%;
+  display:inline;
+  float:left;
+}
+
+.doctor img{
+  height: 170px;
+  width: 170px;
+  border-radius: 50% !important;
+}
+
+.doctorDetails{
+  /* flex: 0 0 61%;
+  padding-left: 20px; */
+  width: 40%;
+  display: inline;
+  text-align: left;
+  float: right;
+  /* position: absolute;  */
+  bottom: 0px; 
+}
+
+.h1class{
+  display: block;
+  font-size: 2em;
+  margin-top: 0.83em;
+  margin-bottom: 0.83em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: 500;
+  color: gray;
+  text-align: center;
+}
+
+.h2class{
+  display: block;
+  font-size: 1.5em;
+  margin-top: 0.83em;
+  margin-bottom: 0.83em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: 500;
+  color: #14BEF0;
+}
+
+.h3class{
+  display: block;
+  font-size: 1.01em;
+  margin-left: 0;
+  margin-right: 0;
+  color: #999999;
+}
+
+.doctorContact{
+  width: 30%;
+  display:inline;
+  text-align: left;
+  float: right;
+}
+
+.card{background: #fffdfd;
+width: 70%;
+display: block;
+border-radius: 5px;
+margin-bottom: 10px;
+/* margin-left: 30px; */
+padding: 14px;
+box-shadow: 0px 0px 4px #bbb9b9;
+}
+
+.container{
+  /* margin-left: 5%; */
+}
+
+.submit{
+  width: 212px;
+  height: 40px;
+  padding: 4px 0;
+  background-color: #14BEF0;
+  color: white;
+  font-size: medium;
+  font-weight: 700;
+  margin-bottom: 2%;
+  float: right;
+  border-radius: 5px;
+  /* margin-top: 70%; */
+}
+
+.doctorContact .tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.doctorContact .tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.doctorContact .tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+ul{
+  list-style-type: none;
+}
+.modal-body{
+  background-color:lightblue;
+}
+.modal-body #description{
+  width: 100%;
+  height: 100px;
+  
+}
+
+.modal-body .col-form-label{
+  font-weight: bold;
+}
